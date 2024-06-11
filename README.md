@@ -32,6 +32,11 @@
 
 > $ pip install streamlit prophet yfinance plotly
 
-> streamlit run main.py
+> $ streamlit run main.py
 
+#### Time Series Prediction
+<img src="./assets/image.jpg"/>
+
+#### Candle stick chart
+<img src="./assets/image-1.jpg"/>
 
